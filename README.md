@@ -1,4 +1,4 @@
-<a href="/iconfinder_Synchronize_131872.png" download="download">Download My Resume</a> 
+<a href="iconfinder_Synchronize_131872.png" download="download">Download My Resume</a> 
 
 ##    Welcome to the future of image labeling
 
