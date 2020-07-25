@@ -1,3 +1,5 @@
+<a href="/iconfinder_Synchronize_131872.png" download="download">Download My Resume</a> 
+
 ##    Welcome to the future of image labeling
 
 <iframe width="616" height="347" src="https://www.youtube.com/embed/m0N1C22AFdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
